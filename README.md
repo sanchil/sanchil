@@ -24,7 +24,7 @@ Services and CDN: Service-API Gateway: Express-Gateway, Istio, Google, Facebook,
 
 Tools: Visual Studio code, Docker, Kubernetes, Wordstream, awk, sed, vim, grep
 
-
+<!---
 - 👋 Hi, I’m @sanchil
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -33,7 +33,7 @@ Tools: Visual Studio code, Docker, Kubernetes, Wordstream, awk, sed, vim, grep
 
 
 
-<!---
+
 sanchil/sanchil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
