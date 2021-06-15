@@ -8,7 +8,7 @@ I am fairly hands on with technology and am currently building digital marketing
 Kubernetes and Docker solutions are the way to go ease out deployment issues and it is my technology solution for my current project on AWS/Linode cloud servers.
 
 
-Solution technology for the digital platform solution:
+Technology Stack:
 
 
 Platform: NodeJS
