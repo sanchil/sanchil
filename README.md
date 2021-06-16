@@ -5,7 +5,7 @@ I specialize in interfacing with teams, breaking down the requirements and match
 
 
 I am fairly hands on with technology and am currently building digital marketing platform for a client. 
-Kubernetes and Docker solutions are the way to go ease out deployment issues and it is my technology solution for my current project on AWS/Linode cloud servers.
+Kubernetes and Docker solutions are the way to go to ease out deployment issues and it is my technology solution for my current project on AWS/Linode cloud servers.
 
 
 Technology Stack:
